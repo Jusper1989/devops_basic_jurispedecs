@@ -37,3 +37,17 @@ $ cd ../module_1
 Juris@JURIS-PC MINGW64 ~/Documents/LU_DevOPS/git_repos/devops_basic_jurispedecs/module_1 (main)
 $ git ls-files -s git_md.JPG
 100644 7e30a41ee0378fcd1768cc38b2e5bbbd02803e24 0       git_md.JPG
+
+
+## 16. punkts
+git log --since=2.weeks
+git log --stat
+
+## 17. punkts
+git log --author="Laura Pacilio"
+
+## 18. punkts
+git log --pretty=format:"%ad - %an: %s" --after="2021-09-01" --until="2021-09-31" --author="Laura Pacilio"
+
+## 19. punkts
+Pildot MD 01.05, Laura nav veikusi commit vakar, bet tuvākais ir 29. aprīlis
